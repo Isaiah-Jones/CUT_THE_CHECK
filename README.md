@@ -4,3 +4,4 @@ A program which uses console input and output to calculate the cost of a meal, t
 # What I Learned
 How to combine user input and math functions in Java to solve a real-world issue <br >
 Practice in creating and using custom methods <br >
+Practice in orderly displaying information <br >
